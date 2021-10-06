@@ -16,5 +16,5 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-* Graduação em Ciência da Computação.
+* Bacharel em Ciência da Computação.
 
